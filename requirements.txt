@@ -1,0 +1,31 @@
+# Core Voice Assistant Dependencies
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# Speech Recognition
+SpeechRecognition>=3.10.0
+
+# Screen Capture
+pyautogui>=0.9.54
+
+# Wikipedia Integration
+wikipedia>=1.4.0
+
+# Web Requests (Weather, News APIs)
+requests>=2.31.0
+
+# System Monitoring
+psutil>=5.9.0
+
+# Optional: Smart Home Automation (Philips Hue)
+# Uncomment if you want to use Philips Hue integration
+# phue>=1.1
+
+# Note: On Linux, you may also need:
+# sudo apt-get install portaudio19-dev python3-pyaudio
+
+# On macOS:
+# brew install portaudio
+# pip install pyaudio
+
