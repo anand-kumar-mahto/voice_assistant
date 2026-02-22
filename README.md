@@ -1,7 +1,7 @@
 Voice Assistant
 
 A Python based voice controlled AI assistant that performs real time tasks using speech recognition and text to speech. It enables web access, system control, file management, automation, and productivity features through natural voice commands.
-
+-------------------------------------------------------------------------------------------------------------
 Features
 1. Voice Interaction
 
@@ -85,6 +85,7 @@ Adjust brightness from 0 to 255
 Random jokes
 
 Inspirational quotes
+-------------------------------------------------------------------------------------------------------------
 
 Installation
 Requirements
@@ -125,6 +126,7 @@ macOS
 Install portaudio using Homebrew
 
 pip install pyaudio
+-------------------------------------------------------------------------------------------------------------
 
 API Configuration
 
@@ -145,6 +147,7 @@ Assistant name customization
 Smart home configuration
 
 Custom file paths
+-------------------------------------------------------------------------------------------------------------
 
 Usage
 
@@ -160,6 +163,7 @@ Speak when listening prompt appears
 Wait for response
 
 Say exit or quit to terminate
+-------------------------------------------------------------------------------------------------------------
 
 Troubleshooting
 
@@ -186,6 +190,7 @@ API issues
 Verify API keys
 
 Check rate limits
+-------------------------------------------------------------------------------------------------------------
 
 Security and Privacy
 
